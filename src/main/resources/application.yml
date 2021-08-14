@@ -1,2 +1,0 @@
-server:
-  port: 8080   #tomcat端口号设置默认8080
