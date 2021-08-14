@@ -1,7 +1,8 @@
-package Application;
+package org.jmf;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.context.annotation.ComponentScan;
 
 /**
  * @ClassName BlogApplication
