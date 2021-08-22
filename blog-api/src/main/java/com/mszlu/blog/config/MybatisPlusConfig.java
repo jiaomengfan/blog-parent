@@ -13,7 +13,7 @@ import org.springframework.context.annotation.Configuration;
  * @Version 1.0
  **/
 @Configuration
-@MapperScan("com.mszlu.blog.mapper")
+@MapperScan("com.mszlu.blog.dao")
 public class MybatisPlusConfig {
 
     //分页插件
